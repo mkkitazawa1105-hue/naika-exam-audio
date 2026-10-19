@@ -7,7 +7,7 @@
   <link>https://mkkitazawa1105-hue.github.io/naika-exam-audio/</link>
   <description>総合内科専門医試験の直前対策（自動生成による対話形式音声・各回約30分）。個人利用の限定公開フィード。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 20 Oct 2026 05:36:24 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 06:35:45 +0900</lastBuildDate>
   <atom:link href="https://mkkitazawa1105-hue.github.io/naika-exam-audio/podcast.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://mkkitazawa1105-hue.github.io/naika-exam-audio/cover.png</url>
@@ -20,6 +20,71 @@
   <itunes:block>Yes</itunes:block>
   <itunes:type>serial</itunes:type>
   <itunes:category text="Education"/>
-
+  <item>
+    <title>第08回 血液</title>
+    <guid isPermaLink="false">naikaexam-08-20297900</guid>
+    <pubDate>Tue, 20 Oct 2026 06:28:30 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_08.mp3" length="20297900" type="audio/mpeg"/>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2537</itunes:duration>
+    <itunes:subtitle>第8回は血液</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第8回は血液。診断が付いた前提で、次の一手、優先順位、禁忌が問われる分野で、悪性リンパ腫、溶血性貧血、免疫性血小板減少症、慢性骨髄性白血病と骨髄線維症、後天性血友病Aなどが出題されやすい。骨髄や血液の標本の像は病名に結びつけ、像がなければ検査の名前を探す。「ここだけ覚えて」は全18項目で、各章の後半と最後に通して読む。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：42:17（2537秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:16)<br/>
+02. 悪性リンパ腫 (開始 01:16・長さ 03:52)<br/>
+03. 溶血性貧血と血栓性血小板減少性紫斑病 (開始 05:09・長さ 03:52)<br/>
+04. 血小板減少、偽性血小板減少症、ITP、HIT (開始 09:01・長さ 03:51)<br/>
+05. 出血と凝固、後天性血友病A (開始 12:52・長さ 03:54)<br/>
+06. 貧血の鑑別、鉄欠乏と再生不良性貧血 (開始 16:47・長さ 03:42)<br/>
+07. 慢性骨髄性白血病、骨髄線維症、急性前骨髄球性白血病 (開始 20:29・長さ 04:01)<br/>
+08. 骨髄異形成症候群と多発性骨髄腫 (開始 24:30・長さ 04:03)<br/>
+09. 成人T細胞白血病と血球貪食症候群 (開始 28:34・長さ 03:57)<br/>
+10. 輸血療法と発熱性好中球減少症 (開始 32:31・長さ 03:31)<br/>
+11. ひっかけ集 (開始 36:02・長さ 02:09)<br/>
+12. クロージング (開始 38:11・長さ 04:05)]]></description>
+  </item>
+  <item>
+    <title>第09回 神経</title>
+    <guid isPermaLink="false">naikaexam-09-19907948</guid>
+    <pubDate>Tue, 20 Oct 2026 06:28:38 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_09.mp3" length="19907948" type="audio/mpeg"/>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2488</itunes:duration>
+    <itunes:subtitle>第9回は神経</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第9回は神経。問題文の所見の名前ひとつで答えが決まることが多く、最大の塊は脳梗塞の急性期とくも膜下出血、次いでレビー小体型認知症などの認知症、髄膜炎と髄液、頭痛、パーキンソン病、ニューロパチーと筋疾患、てんかんが続く。診断はほぼついた前提で、次の一手、検査の順番、使ってはいけない薬が問われる。「ここだけ覚えて」は全18項目で、各章で読み上げ、最後にもう一度通して読む。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：41:28（2488秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:18)<br/>
+02. 脳梗塞の急性期 (開始 01:18・長さ 03:41)<br/>
+03. レビー小体型認知症と認知症の見分け (開始 05:00・長さ 03:31)<br/>
+04. 局在診断 (開始 08:31・長さ 03:52)<br/>
+05. 髄膜炎と髄液 (開始 12:24・長さ 03:48)<br/>
+06. 頭痛 (開始 16:12・長さ 03:40)<br/>
+07. くも膜下出血と突然の頭痛 (開始 19:52・長さ 03:47)<br/>
+08. パーキンソン病と変性疾患 (開始 23:39・長さ 04:00)<br/>
+09. てんかん、睡眠、意識障害 (開始 27:40・長さ 03:30)<br/>
+10. 末梢神経、筋、脊髄 (開始 31:10・長さ 03:51)<br/>
+11. ひっかけ集 (開始 35:01・長さ 02:20)<br/>
+12. クロージング (開始 37:22・長さ 04:06)]]></description>
+  </item>
 </channel>
 </rss>
