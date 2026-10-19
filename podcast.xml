@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>総合内科専門医 直前対策</title>
+  <link>https://mkkitazawa1105-hue.github.io/naika-exam-audio/</link>
+  <description>総合内科専門医試験の直前対策（自動生成による対話形式音声・各回約30分）。個人利用の限定公開フィード。</description>
+  <language>ja</language>
+  <lastBuildDate>Tue, 20 Oct 2026 05:36:24 +0900</lastBuildDate>
+  <atom:link href="https://mkkitazawa1105-hue.github.io/naika-exam-audio/podcast.xml" rel="self" type="application/rss+xml"/>
+  <image>
+    <url>https://mkkitazawa1105-hue.github.io/naika-exam-audio/cover.png</url>
+    <title>総合内科専門医 直前対策</title>
+    <link>https://mkkitazawa1105-hue.github.io/naika-exam-audio/</link>
+  </image>
+  <itunes:image href="https://mkkitazawa1105-hue.github.io/naika-exam-audio/cover.png"/>
+  <itunes:author>総合内科専門医 直前対策</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <itunes:type>serial</itunes:type>
+  <itunes:category text="Education"/>
+
+</channel>
+</rss>
