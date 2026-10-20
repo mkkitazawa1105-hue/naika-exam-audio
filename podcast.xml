@@ -7,7 +7,7 @@
   <link>https://mkkitazawa1105-hue.github.io/naika-exam-audio/</link>
   <description>総合内科専門医試験の直前対策（自動生成による対話形式音声・各回約30分）。個人利用の限定公開フィード。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 20 Oct 2026 06:35:45 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 18:11:54 +0900</lastBuildDate>
   <atom:link href="https://mkkitazawa1105-hue.github.io/naika-exam-audio/podcast.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://mkkitazawa1105-hue.github.io/naika-exam-audio/cover.png</url>
@@ -21,70 +21,400 @@
   <itunes:type>serial</itunes:type>
   <itunes:category text="Education"/>
   <item>
-    <title>第08回 血液</title>
-    <guid isPermaLink="false">naikaexam-08-20297900</guid>
-    <pubDate>Tue, 20 Oct 2026 06:28:30 +0900</pubDate>
-    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_08.mp3" length="20297900" type="audio/mpeg"/>
-    <itunes:episode>8</itunes:episode>
+    <title>第01回 呼吸器</title>
+    <guid isPermaLink="false">naikaexam-01-23979308</guid>
+    <pubDate>Tue, 20 Oct 2026 18:08:44 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_01.mp3" length="23979308" type="audio/mpeg"/>
+    <itunes:episode>1</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
-    <itunes:duration>2537</itunes:duration>
-    <itunes:subtitle>第8回は血液</itunes:subtitle>
+    <itunes:duration>2997</itunes:duration>
+    <itunes:subtitle>第1回は呼吸器</itunes:subtitle>
     <description><![CDATA[【全体要約】<br/>
-第8回は血液。診断が付いた前提で、次の一手、優先順位、禁忌が問われる分野で、悪性リンパ腫、溶血性貧血、免疫性血小板減少症、慢性骨髄性白血病と骨髄線維症、後天性血友病Aなどが出題されやすい。骨髄や血液の標本の像は病名に結びつけ、像がなければ検査の名前を探す。「ここだけ覚えて」は全18項目で、各章の後半と最後に通して読む。<br/>
+第1回は呼吸器。出やすい順に肺癌、COPD、気胸、咳と肺炎、肺血栓塞栓症で、縦隔腫瘍、喘息、胸水、間質性肺炎が続く。答えを決める手がかりは血液ガスの数字と胸部画像の一言で、数字と部位を一組で覚える。<br/>
 <br/>
 【方針】<br/>
 台本をそのまま読み上げ（台本の文言は変更なし）<br/>
-実際の尺：42:17（2537秒）<br/>
+実際の尺：49:57（2997秒）<br/>
 章数：12<br/>
 話者：charon＝講師、sulafat＝聞き手<br/>
 ［間］は約2秒の無音<br/>
 <br/>
 【章目次】<br/>
-01. オープニング (開始 00:00・長さ 01:16)<br/>
-02. 悪性リンパ腫 (開始 01:16・長さ 03:52)<br/>
-03. 溶血性貧血と血栓性血小板減少性紫斑病 (開始 05:09・長さ 03:52)<br/>
-04. 血小板減少、偽性血小板減少症、ITP、HIT (開始 09:01・長さ 03:51)<br/>
-05. 出血と凝固、後天性血友病A (開始 12:52・長さ 03:54)<br/>
-06. 貧血の鑑別、鉄欠乏と再生不良性貧血 (開始 16:47・長さ 03:42)<br/>
-07. 慢性骨髄性白血病、骨髄線維症、急性前骨髄球性白血病 (開始 20:29・長さ 04:01)<br/>
-08. 骨髄異形成症候群と多発性骨髄腫 (開始 24:30・長さ 04:03)<br/>
-09. 成人T細胞白血病と血球貪食症候群 (開始 28:34・長さ 03:57)<br/>
-10. 輸血療法と発熱性好中球減少症 (開始 32:31・長さ 03:31)<br/>
-11. ひっかけ集 (開始 36:02・長さ 02:09)<br/>
-12. クロージング (開始 38:11・長さ 04:05)]]></description>
+01. オープニング (開始 00:00・長さ 01:22)<br/>
+02. 肺癌の治療選択と腫瘍随伴症候群 (開始 01:22・長さ 04:53)<br/>
+03. 肺癌の局所症状と縦隔腫瘍 (開始 06:16・長さ 04:39)<br/>
+04. COPDの病態と安定期 (開始 10:55・長さ 04:12)<br/>
+05. COPDの増悪と呼吸不全 (開始 15:07・長さ 04:16)<br/>
+06. 気胸と胸水 (開始 19:23・長さ 04:38)<br/>
+07. 咳と肺炎、呼吸器の感染症 (開始 24:01・長さ 04:38)<br/>
+08. 肺血栓塞栓症と肺高血圧症 (開始 28:39・長さ 04:49)<br/>
+09. 気管支喘息とアレルギーの肺疾患 (開始 33:28・長さ 04:39)<br/>
+10. 間質性肺炎、睡眠時無呼吸、乳癌 (開始 38:07・長さ 04:43)<br/>
+11. ひっかけ集 (開始 42:50・長さ 02:42)<br/>
+12. クロージング (開始 45:32・長さ 04:25)]]></description>
+  </item>
+  <item>
+    <title>第02回 感染症</title>
+    <guid isPermaLink="false">naikaexam-02-22595372</guid>
+    <pubDate>Tue, 20 Oct 2026 18:08:51 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_02.mp3" length="22595372" type="audio/mpeg"/>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2824</itunes:duration>
+    <itunes:subtitle>第2回は感染症</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第2回は感染症。出やすい順に細菌性髄膜炎、感染性腸炎と食中毒、帰国者の発熱、結核と非結核性抗酸菌症、ブドウ球菌の菌血症。手がかりはグラム染色の形と培養の菌名で、菌と薬、菌と対策を一組で覚える。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：47:04（2824秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:20)<br/>
+02. 細菌性髄膜炎 (開始 01:20・長さ 03:51)<br/>
+03. 血液培養と菌血症、感染性心内膜炎 (開始 05:11・長さ 04:29)<br/>
+04. 敗血症と肺炎のグラム染色 (開始 09:41・長さ 04:21)<br/>
+05. 結核と非結核性抗酸菌症 (開始 14:01・長さ 04:07)<br/>
+06. 感染対策と腸の感染症 (開始 18:09・長さ 04:12)<br/>
+07. 帰国者の発熱と、虫や動物の感染症 (開始 22:21・長さ 04:18)<br/>
+08. 免疫不全と真菌症 (開始 26:39・長さ 04:27)<br/>
+09. ウイルスと小児の感染症 (開始 31:07・長さ 04:59)<br/>
+10. 梅毒と性感染症、尿路と軟部組織、針刺し (開始 36:06・長さ 03:52)<br/>
+11. ひっかけ集 (開始 39:58・長さ 02:41)<br/>
+12. クロージング (開始 42:38・長さ 04:26)]]></description>
+  </item>
+  <item>
+    <title>第03回 消化管</title>
+    <guid isPermaLink="false">naikaexam-03-23706860</guid>
+    <pubDate>Tue, 20 Oct 2026 18:08:58 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_03.mp3" length="23706860" type="audio/mpeg"/>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2963</itunes:duration>
+    <itunes:subtitle>第3回は消化管</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第3回は消化管。炎症性腸疾患、胃食道逆流症、大腸癌、機能性消化管疾患などが中心で、症例問題の多くは診断より次の一手を問う。内視鏡やCTの像、出来事の時間関係、設問の言い回しの3つに注目する。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：49:23（2963秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:31)<br/>
+02. 潰瘍性大腸炎とクローン病 (開始 01:31・長さ 04:52)<br/>
+03. 潰瘍性大腸炎の治療と、治療中の下痢 (開始 06:23・長さ 04:48)<br/>
+04. 胃食道逆流症、ナード、機能性ディスペプシア (開始 11:12・長さ 04:35)<br/>
+05. 大腸癌と腸閉塞、下部内視鏡と小腸の出血 (開始 15:47・長さ 04:33)<br/>
+06. 過敏性腸症候群と、抗菌薬のあとの下痢 (開始 20:20・長さ 04:15)<br/>
+07. ピロリ菌の除菌と、上部消化管出血 (開始 24:35・長さ 04:09)<br/>
+08. 食道と胃の腫瘍、好酸球性食道炎 (開始 28:44・長さ 04:35)<br/>
+09. 胃切除後症候群とヘルニア (開始 33:19・長さ 04:20)<br/>
+10. 穿孔、ブールハーフェ症候群、憩室炎と虫垂炎 (開始 37:39・長さ 04:53)<br/>
+11. ひっかけ集 (開始 42:32・長さ 02:40)<br/>
+12. クロージング (開始 45:11・長さ 04:12)]]></description>
+  </item>
+  <item>
+    <title>第04回 肝胆膵</title>
+    <guid isPermaLink="false">naikaexam-04-23794028</guid>
+    <pubDate>Tue, 20 Oct 2026 18:09:06 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_04.mp3" length="23794028" type="audio/mpeg"/>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2974</itunes:duration>
+    <itunes:subtitle>第4回は肝胆膵</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第4回は肝胆膵。自己免疫性膵炎とアイジージーフォー関連疾患、体質性黄疸と代謝性の肝疾患、肝硬変などが出やすい。MRCPやCT、超音波の1枚と検査の名前で正解がほぼ決まり、B型肝炎や膵炎は同じ患者の時間軸で問われる。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：49:34（2974秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:23)<br/>
+02. 自己免疫性膵炎と慢性膵炎 (開始 01:23・長さ 04:20)<br/>
+03. 黄疸の見分けと、体質性黄疸、銅と鉄の病気 (開始 05:43・長さ 04:10)<br/>
+04. 肝硬変と肝性脳症、肝細胞癌 (開始 09:53・長さ 05:07)<br/>
+05. 急性膵炎 (開始 15:00・長さ 04:09)<br/>
+06. 胆囊ポリープ、急性胆囊炎、胆石 (開始 19:10・長さ 04:33)<br/>
+07. 急性胆管炎と閉塞性黄疸、膵頭部癌と胆管癌 (開始 23:42・長さ 04:44)<br/>
+08. ウイルス性肝炎と劇症肝炎 (開始 28:26・長さ 05:08)<br/>
+09. 自己免疫性肝炎、PBCとPSC、脂肪肝 (開始 33:34・長さ 04:30)<br/>
+10. 肝膿瘍、IPMN、膵・胆管合流異常 (開始 38:04・長さ 04:28)<br/>
+11. ひっかけ集 (開始 42:31・長さ 02:49)<br/>
+12. クロージング (開始 45:20・長さ 04:14)]]></description>
+  </item>
+  <item>
+    <title>第05回 循環器</title>
+    <guid isPermaLink="false">naikaexam-05-23847404</guid>
+    <pubDate>Tue, 20 Oct 2026 18:09:14 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_05.mp3" length="23847404" type="audio/mpeg"/>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2980</itunes:duration>
+    <itunes:subtitle>第5回は循環器</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第5回は循環器。出やすい順に心不全、感染性心内膜炎、急性心筋梗塞と急性冠症候群、心電図と画像の読み方、肺高血圧と先天性心疾患。心電図、心エコー、聴診の一言を言葉で覚え、病名だけでなく次の一手と禁忌まで一組で押さえる。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：49:41（2980秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:15)<br/>
+02. 心不全 (開始 01:15・長さ 04:20)<br/>
+03. 感染性心内膜炎 (開始 05:35・長さ 04:15)<br/>
+04. 急性冠症候群と心筋梗塞 (開始 09:50・長さ 04:23)<br/>
+05. 機械的合併症と大動脈解離 (開始 14:14・長さ 04:42)<br/>
+06. 徐脈、失神、心停止 (開始 18:55・長さ 04:29)<br/>
+07. 頻拍、QT延長、抗凝固 (開始 23:24・長さ 04:51)<br/>
+08. 弁膜症と心雑音 (開始 28:16・長さ 05:10)<br/>
+09. 心膜疾患と心筋症 (開始 33:26・長さ 04:53)<br/>
+10. 高血圧、先天性心疾患、末梢血管 (開始 38:19・長さ 05:16)<br/>
+11. ひっかけ集 (開始 43:35・長さ 02:19)<br/>
+12. クロージング (開始 45:54・長さ 03:47)]]></description>
+  </item>
+  <item>
+    <title>第06回 腎臓</title>
+    <guid isPermaLink="false">naikaexam-06-23275628</guid>
+    <pubDate>Tue, 20 Oct 2026 18:09:22 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_06.mp3" length="23275628" type="audio/mpeg"/>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2909</itunes:duration>
+    <itunes:subtitle>第6回は腎臓</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第6回は腎臓。慢性腎臓病の重症度分類と食事、高カリウム血症、糖尿病腎症、IgA腎症、薬剤性腎障害が出やすい。診断よりも管理を問う分野で、基準の数字と、内服薬と出来事の対を押さえる。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：48:29（2909秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:12)<br/>
+02. 慢性腎臓病の重症度と食事 (開始 01:12・長さ 04:22)<br/>
+03. 高カリウム血症 (開始 05:34・長さ 04:03)<br/>
+04. 糖尿病腎症と降圧薬 (開始 09:37・長さ 04:26)<br/>
+05. IgA腎症と補体 (開始 14:03・長さ 05:14)<br/>
+06. ネフローゼ症候群と膜性腎症 (開始 19:17・長さ 04:11)<br/>
+07. 急性腎障害、造影剤腎症、薬剤性腎障害 (開始 23:27・長さ 04:26)<br/>
+08. ナトリウムと酸塩基 (開始 27:53・長さ 04:54)<br/>
+09. カルシウム、マグネシウム、尿所見 (開始 32:47・長さ 04:31)<br/>
+10. 透析、腎移植、血管の病気 (開始 37:18・長さ 04:52)<br/>
+11. ひっかけ集 (開始 42:10・長さ 02:24)<br/>
+12. クロージング (開始 44:34・長さ 03:56)]]></description>
+  </item>
+  <item>
+    <title>第07回 アレルギー・膠原病</title>
+    <guid isPermaLink="false">naikaexam-07-23644460</guid>
+    <pubDate>Tue, 20 Oct 2026 18:09:31 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_07.mp3" length="23644460" type="audio/mpeg"/>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2955</itunes:duration>
+    <itunes:subtitle>第7回はアレルギーと膠原病</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第7回はアレルギーと膠原病。好酸球性の肺疾患とEGPA、大型血管炎、アナフィラキシー、皮膚筋炎と筋炎の自己抗体などが中心。抗体名や病理の言葉で決まる問題と所見の組合せで解く問題がほぼ半々で、アレルギーは直前に何をしたかの一言で決まる。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：49:15（2955秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:11)<br/>
+02. 好酸球性肺疾患とEGPA (開始 01:11・長さ 04:31)<br/>
+03. 大型血管炎とアンカ関連血管炎 (開始 05:42・長さ 04:54)<br/>
+04. アナフィラキシーと薬の過敏症 (開始 10:36・長さ 04:29)<br/>
+05. 食物依存性運動誘発アナフィラキシーとアレルギーの型 (開始 15:05・長さ 04:20)<br/>
+06. 皮膚筋炎と筋炎特異的自己抗体 (開始 19:25・長さ 04:32)<br/>
+07. 関節リウマチの治療 (開始 23:57・長さ 05:06)<br/>
+08. 全身性強皮症 (開始 29:03・長さ 04:22)<br/>
+09. SLEと抗リン脂質抗体症候群 (開始 33:24・長さ 04:38)<br/>
+10. 脊椎関節炎、成人スティル病、アイジージーフォー関連疾患 (開始 38:02・長さ 04:41)<br/>
+11. ひっかけ集 (開始 42:43・長さ 02:24)<br/>
+12. クロージング (開始 45:08・長さ 04:08)]]></description>
+  </item>
+  <item>
+    <title>第08回 血液</title>
+    <guid isPermaLink="false">naikaexam-08-24284396</guid>
+    <pubDate>Tue, 20 Oct 2026 18:09:39 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_08.mp3" length="24284396" type="audio/mpeg"/>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>3035</itunes:duration>
+    <itunes:subtitle>第8回は血液</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第8回は血液。診断が付いた前提で次の一手、優先順位、禁忌が問われ、悪性リンパ腫、溶血性貧血、免疫性血小板減少症、慢性骨髄性白血病と骨髄線維症、後天性血友病Aが出やすい。標本の像は名前を病名に結びつけ、像がなければ検査の名前を探す。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：50:35（3035秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:17)<br/>
+02. 悪性リンパ腫 (開始 01:17・長さ 04:49)<br/>
+03. 溶血性貧血と血栓性血小板減少性紫斑病 (開始 06:06・長さ 05:18)<br/>
+04. 血小板減少、偽性血小板減少症、ITP、HIT (開始 11:24・長さ 04:20)<br/>
+05. 出血と凝固、後天性血友病A (開始 15:44・長さ 04:56)<br/>
+06. 貧血の鑑別、鉄欠乏と再生不良性貧血 (開始 20:40・長さ 04:39)<br/>
+07. 慢性骨髄性白血病、骨髄線維症、急性前骨髄球性白血病 (開始 25:19・長さ 05:04)<br/>
+08. 骨髄異形成症候群と多発性骨髄腫 (開始 30:23・長さ 04:40)<br/>
+09. 成人T細胞白血病と血球貪食症候群 (開始 35:03・長さ 04:45)<br/>
+10. 輸血療法と発熱性好中球減少症 (開始 39:48・長さ 04:20)<br/>
+11. ひっかけ集 (開始 44:08・長さ 02:16)<br/>
+12. クロージング (開始 46:24・長さ 04:11)]]></description>
   </item>
   <item>
     <title>第09回 神経</title>
-    <guid isPermaLink="false">naikaexam-09-19907948</guid>
-    <pubDate>Tue, 20 Oct 2026 06:28:38 +0900</pubDate>
-    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_09.mp3" length="19907948" type="audio/mpeg"/>
+    <guid isPermaLink="false">naikaexam-09-24088748</guid>
+    <pubDate>Tue, 20 Oct 2026 18:09:47 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_09.mp3" length="24088748" type="audio/mpeg"/>
     <itunes:episode>9</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
-    <itunes:duration>2488</itunes:duration>
+    <itunes:duration>3011</itunes:duration>
     <itunes:subtitle>第9回は神経</itunes:subtitle>
     <description><![CDATA[【全体要約】<br/>
-第9回は神経。問題文の所見の名前ひとつで答えが決まることが多く、最大の塊は脳梗塞の急性期とくも膜下出血、次いでレビー小体型認知症などの認知症、髄膜炎と髄液、頭痛、パーキンソン病、ニューロパチーと筋疾患、てんかんが続く。診断はほぼついた前提で、次の一手、検査の順番、使ってはいけない薬が問われる。「ここだけ覚えて」は全18項目で、各章で読み上げ、最後にもう一度通して読む。<br/>
+第9回は神経。所見の名前ひとつで答えが決まることが多く、脳梗塞の急性期とくも膜下出血、レビー小体型認知症などの認知症が二本柱で、髄膜炎と頭痛が続く。診断はほぼついた前提で、次の一手、検査の順番、使ってはいけない薬が問われる。<br/>
 <br/>
 【方針】<br/>
 台本をそのまま読み上げ（台本の文言は変更なし）<br/>
-実際の尺：41:28（2488秒）<br/>
+実際の尺：50:11（3011秒）<br/>
 章数：12<br/>
 話者：charon＝講師、sulafat＝聞き手<br/>
 ［間］は約2秒の無音<br/>
 <br/>
 【章目次】<br/>
-01. オープニング (開始 00:00・長さ 01:18)<br/>
-02. 脳梗塞の急性期 (開始 01:18・長さ 03:41)<br/>
-03. レビー小体型認知症と認知症の見分け (開始 05:00・長さ 03:31)<br/>
-04. 局在診断 (開始 08:31・長さ 03:52)<br/>
-05. 髄膜炎と髄液 (開始 12:24・長さ 03:48)<br/>
-06. 頭痛 (開始 16:12・長さ 03:40)<br/>
-07. くも膜下出血と突然の頭痛 (開始 19:52・長さ 03:47)<br/>
-08. パーキンソン病と変性疾患 (開始 23:39・長さ 04:00)<br/>
-09. てんかん、睡眠、意識障害 (開始 27:40・長さ 03:30)<br/>
-10. 末梢神経、筋、脊髄 (開始 31:10・長さ 03:51)<br/>
-11. ひっかけ集 (開始 35:01・長さ 02:20)<br/>
-12. クロージング (開始 37:22・長さ 04:06)]]></description>
+01. オープニング (開始 00:00・長さ 01:20)<br/>
+02. 脳梗塞の急性期 (開始 01:20・長さ 04:23)<br/>
+03. レビー小体型認知症と認知症の見分け (開始 05:43・長さ 04:40)<br/>
+04. 局在診断 (開始 10:23・長さ 05:10)<br/>
+05. 髄膜炎と髄液 (開始 15:33・長さ 04:41)<br/>
+06. 頭痛 (開始 20:14・長さ 04:21)<br/>
+07. くも膜下出血と突然の頭痛 (開始 24:35・長さ 04:45)<br/>
+08. パーキンソン病と変性疾患 (開始 29:20・長さ 04:59)<br/>
+09. てんかん、睡眠、意識障害 (開始 34:19・長さ 04:10)<br/>
+10. 末梢神経、筋、脊髄 (開始 38:30・長さ 05:00)<br/>
+11. ひっかけ集 (開始 43:29・長さ 02:35)<br/>
+12. クロージング (開始 46:05・長さ 04:06)]]></description>
+  </item>
+  <item>
+    <title>第10回 内分泌・代謝</title>
+    <guid isPermaLink="false">naikaexam-10-23516396</guid>
+    <pubDate>Tue, 20 Oct 2026 18:09:54 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_10.mp3" length="23516396" type="audio/mpeg"/>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2939</itunes:duration>
+    <itunes:subtitle>第10回は内分泌・代謝</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第10回は内分泌・代謝。ホルモンと検査値を組で読む分野で、最頻出はSIADHと低ナトリウム血症、続いて高血糖緊急症、糖尿病の薬と併存疾患、高カルシウム血症。何を先に出すかという順番と禁忌が答えになり、背景の一言が効く。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：48:59（2939秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:21)<br/>
+02. ナトリウムと水 (開始 01:21・長さ 04:32)<br/>
+03. 高血糖緊急症 (開始 05:53・長さ 04:38)<br/>
+04. 糖尿病の病型と薬 (開始 10:30・長さ 04:16)<br/>
+05. 低血糖とビタミン (開始 14:46・長さ 04:13)<br/>
+06. カルシウムとリン (開始 19:00・長さ 04:57)<br/>
+07. 甲状腺 (開始 23:57・長さ 04:44)<br/>
+08. 副腎 (開始 28:41・長さ 04:40)<br/>
+09. 下垂体と副腎不全 (開始 33:21・長さ 04:21)<br/>
+10. メタボリックシンドローム、脂質、痛風、栄養 (開始 37:42・長さ 04:20)<br/>
+11. ひっかけ集 (開始 42:02・長さ 02:43)<br/>
+12. クロージング (開始 44:44・長さ 04:15)]]></description>
+  </item>
+  <item>
+    <title>第11回 総合内科・救急</title>
+    <guid isPermaLink="false">naikaexam-11-23377580</guid>
+    <pubDate>Tue, 20 Oct 2026 18:10:01 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_11.mp3" length="23377580" type="audio/mpeg"/>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2922</itunes:duration>
+    <itunes:subtitle>第11回は総合内科・救急</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第11回は総合内科・救急。1つの症例に2〜3問の連問が多く、診断、身体所見、検査、治療や制度へと流れるため、症例の時系列を最初に押さえる。心停止の蘇生、介護保険と退院支援、まず内服薬を疑う症例、尤度比の計算などが出やすい。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：48:42（2922秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:24)<br/>
+02. 心停止の認識と蘇生 (開始 01:24・長さ 04:15)<br/>
+03. 介護保険と退院支援、高齢者の薬 (開始 05:39・長さ 04:39)<br/>
+04. まず内服薬を疑う症例 (開始 10:18・長さ 03:56)<br/>
+05. 尤度比と統計、診断エラー (開始 14:14・長さ 04:22)<br/>
+06. 呼吸器と膠原病の横断症例 (開始 18:36・長さ 04:30)<br/>
+07. 医療コミュニケーションと睡眠 (開始 23:06・長さ 04:16)<br/>
+08. 泌尿器の救急と神経症状で来る感染症 (開始 27:22・長さ 04:37)<br/>
+09. 運動器の痛みと循環器の横断 (開始 31:59・長さ 04:42)<br/>
+10. 肺炎と敗血症、災害と感染対策 (開始 36:41・長さ 05:06)<br/>
+11. ひっかけ集 (開始 41:47・長さ 02:35)<br/>
+12. クロージング (開始 44:23・長さ 04:19)]]></description>
+  </item>
+  <item>
+    <title>第12回 直前の○×100問</title>
+    <guid isPermaLink="false">naikaexam-12-18996716</guid>
+    <pubDate>Tue, 20 Oct 2026 18:10:06 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/naika-exam-audio/audio/naika_12.mp3" length="18996716" type="audio/mpeg"/>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2374</itunes:duration>
+    <itunes:subtitle>第12回は直前のマルバツ</itunes:subtitle>
+    <description><![CDATA[【全体要約】<br/>
+第12回は直前のマルバツ。正誤を答える一文の問題を分野ごとに80問出し、問題のあとの間に心の中でマルかバツかを決める。文を主語と述語に分け、言い切りや否定の語があればまずバツを疑い、同じテーマの組に紛れた1つのバツを探す。<br/>
+<br/>
+【方針】<br/>
+台本をそのまま読み上げ（台本の文言は変更なし）<br/>
+実際の尺：39:35（2374秒）<br/>
+章数：12<br/>
+話者：charon＝講師、sulafat＝聞き手<br/>
+［間］は約2秒の無音<br/>
+<br/>
+【章目次】<br/>
+01. オープニング (開始 00:00・長さ 01:15)<br/>
+02. 循環器 (開始 01:15・長さ 03:07)<br/>
+03. 呼吸器 (開始 04:23・長さ 03:17)<br/>
+04. 消化管と膵臓 (開始 07:40・長さ 03:45)<br/>
+05. 肝胆と、鉄や銅がたまる病気 (開始 11:25・長さ 03:14)<br/>
+06. 代謝の病気と薬 (開始 14:39・長さ 03:19)<br/>
+07. 内分泌 (開始 17:58・長さ 03:29)<br/>
+08. 腎臓 (開始 21:28・長さ 03:06)<br/>
+09. 膠原病 (開始 24:34・長さ 03:54)<br/>
+10. 血液と感染症 (開始 28:28・長さ 03:18)<br/>
+11. 免疫チェックポイント阻害薬と救急、総合内科 (開始 31:46・長さ 03:55)<br/>
+12. クロージング (開始 35:41・長さ 03:53)]]></description>
   </item>
 </channel>
 </rss>
